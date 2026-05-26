@@ -1,16 +1,43 @@
-# drivex
+# DriveX 🚗
 
-A new Flutter project.
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/744/744465.png" width="120"/>
+</p>
 
-## Getting Started
+<p align="center">
+  A modern Flutter application for exploring luxury and sports cars with a clean and elegant UI.
+</p>
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+# ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🚘 Modern car browsing interface
+- 📱 Beautiful and responsive UI
+- ⚡ Smooth page navigation
+- 🔥 Firebase integration
+- 🏎️ Car details screen
+- 🌙 Professional design
+- 🎨 Attractive animations
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+# 🛠️ Technologies Used
+
+- Flutter
+- Dart
+  
+---
+
+# 👨‍💻 Developer
+
+**Eng Mohammed Khaled Ban Boraik**
+
+GitHub:
+https://github.com/Mohammedbanboraik
+
+---
+
+# ⭐ Support
+
+If you like this project, don't forget to give it a ⭐ on GitHub!
